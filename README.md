@@ -8,6 +8,8 @@ Learning Haskell from many great resources that you can find and learn for free 
 
 ### Playlist for All
 
+- [[CS Knowledge] Language - Haskell (Poom Yimyuean)](https://www.youtube.com/playlist?list=PL4gb8oBUMvalSSKroB0vu-piiZdlXg4AU)
+
 ### English Language
 
 - [[EN] Playlist: Haskell for Beginners (Beaufort Tek)](https://www.youtube.com/playlist?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg)
